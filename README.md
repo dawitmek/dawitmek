@@ -1,5 +1,3 @@
-# README
-
 Hi there, I'm Dawit. Currently a college student studying computer science. I'm very interested in all things computer science but more experienced in web development at the moment. 
 
 I'm not specialized in anything yet but very interested in full stack development and cyber security.
